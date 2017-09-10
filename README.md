@@ -9,4 +9,6 @@ Tehtävänäsi on selvittää kuinka monella tapaa luku 100 000 on mahdollista e
 
 Koodin testaamista helpottanee tieto, että luku 10 voidaan esittää kahdella tapaa, luku 100 kuudellä tapaa ja luku 1000 jo 28:llä eri tapaa.
 
+http://www.solidabis.com/koodihaaste/
+
 ---
